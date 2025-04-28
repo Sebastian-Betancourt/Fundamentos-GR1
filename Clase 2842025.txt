@@ -1,0 +1,24 @@
+Clase 28/4/2025
+
+pq escoger js como backend y frontened: permite estar en todas las cosas frontend backend iot etc...
+primero era un lenguaje orientado a la web 
+V8: TRADUCE DE LO QUE SE TRABJA A LENGUAJE MAQUINA
+
+con node se puede trabajar js en el lado del servidor gracias al motor V8 (propio de chrome)
+Node: programación síncrona y porgramacion asíncrona
+
+sincrónica: cuando se hace una petición y no se hace nada hasta que se tenga la respuesta 
+asincrónica: cuando se hace una  petición y se hace algo hasta que se tenga la respuesta 
+
+W3C: reglas de la web (protocolos , estándares las reglas)  
+
+que es ECMA SCRIPT: es una organización que crea una serie de estándares protocolos para la comunicación y la información 
+
+ECMA: REGLAS PARA JS, LA REGLA MAS IMPORTANTE FUE EN 2012   ES6 --- versión importante 
+
+
+CSR:  EL NAVEGADOR MANDA EL HTML BASICO Y EL JS LO RENDERIZA (FRONTENED)
+SSR:  EL SERVIDOR RECOLECTA TODA LA INFROMACION NECESARIA MANDA LA PAGINA LISTA (BACKEND)
+
+																											
+																																																																		
